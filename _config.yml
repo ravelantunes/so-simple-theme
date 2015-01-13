@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Ravel Antunes
 locale: en_US
 description: Describe your website here.
-logo: site-logo.png
+logo: face.png
 search: true
-url: 
+url:
 
 
 # Jekyll configuration
@@ -32,13 +32,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Ravel Antunes
+  avatar: face.png
+  email: ravel.antunes@artistechsoftware.com
   disqus-shortname:
-  twitter: #username
+  twitter: ravelantunes
   facebook: #username
-  github: #username
+  github: ravelantunes
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
